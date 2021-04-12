@@ -1,4 +1,4 @@
-# Pong
+# Incremental Game
  
 Assignment 2 Course Game Programming Batch 4 DiLo Academy 
 
